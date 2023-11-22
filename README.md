@@ -1,1 +1,1 @@
-# Minera-o-de-Dados-Stroke-Prediction
+# Mineracao-de-Dados-Stroke-Prediction
